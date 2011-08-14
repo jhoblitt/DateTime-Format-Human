@@ -1,7 +1,5 @@
 # Copyright (C) 2004  Joshua Hoblitt
 # Copyright (C) 2001  Simon Cozens
-#
-# $Id$
 
 package DateTime::Format::Human;
 

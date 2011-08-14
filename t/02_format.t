@@ -1,6 +1,4 @@
 # Copyright (C) 2004  Joshua Hoblitt
-#
-# $Id$
 
 use strict;
 use warnings;
